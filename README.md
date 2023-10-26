@@ -3,7 +3,7 @@
 hi
 
 # Me
-#im a programmer in multiple languages such as:
+## im a programmer in multiple languages such as:
 
 -Haxe
 
@@ -13,4 +13,5 @@ hi
 
 -and Python
 
-I like making clones of popular applications, games and websites in Haxe amd PYTHION!!!1111
+## I like making clones of popular applications, games and websites in Haxe amd PYTHION!!!1111
+![images/python.png]
