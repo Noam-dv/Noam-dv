@@ -14,4 +14,5 @@ hi
 -and Python
 
 ## I like making clones of popular applications, games and websites in Haxe amd PYTHION!!!1111
-![images/python.png]
+![logo](images/haxe-logo-large.png)
+![logo](images/python.png)
