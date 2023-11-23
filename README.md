@@ -7,13 +7,11 @@ hi
 
 -Haxe
 
--Java
-
 -C#
 
--and Python
+-Python
 
-## I like making clones of popular applications, games and websites in Haxe amd PYTHION!!!1111
+-More idk
 
 ![](images/haxe-logo-large.png)
 ![](images/python.png)
