@@ -1,17 +1,9 @@
 # Hi
-## Hi
-hi
 
 # Me
-## im a programmer in multiple languages such as:
+## im a programmer in multiple languages:
 
--Haxe
-
--C#
-
--Python
-
--More idk
-
-![](images/haxe-logo-large.png)
-![](images/python.png)
+- Haxe / ASL
+- C# / C++
+- Python
+- Html, Javascript
