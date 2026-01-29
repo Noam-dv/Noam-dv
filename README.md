@@ -1,9 +1,8 @@
 # Hi
 ## im a programmer in multiple languages:
 
-- GLSL
+- Python
 - Haxe / ASL, C#
-- Python, Html, Javascript
+- GLSL shader programming
 
-Games and AI and stuff is cool but i prefer Graphics programming
-Most my projects are open source right here on github (thats a lie)
+Hobbyist making several types of projects of anything that interests me at the moment 
