@@ -1,11 +1,8 @@
-# Hi
-## im a programmer in multiple languages:
+# Noam-dv
 
-- Python
-- C
-- Haxe / ASL, C#
-- GLSL shader programming
+Im a programmer with experience in multiple languages and topics:  
 
-Hobbyist making several types of projects of anything that interests me at the moment 
-Very interested in low level programming and vulnerability research 
-99% of my projects are privated due to embarassment lol
+- **languages:** Python, C, Haxe/ASL, C#, GLSL (shader programming)  
+- **areas of interest:** low level programming, vulnerability research, hobby projects exploring new technologies
+   
+Most of my work is private. i focus on building and experimenting with projects that challenge me and expand my skills
